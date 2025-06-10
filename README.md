@@ -53,4 +53,4 @@ The hook provides information about the clicked link, as well as the viewed link
 *This hook was added in ClickWhale v2.4.5*
 
 ## Plugin Documentation
-More information about the plugin functionality can be found in the officia [plugin documentation](https://clickwhale.pro/docs/).
+More information about the plugin functionality can be found in the official [plugin documentation](https://clickwhale.pro/docs/).
